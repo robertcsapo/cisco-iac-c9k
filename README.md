@@ -13,7 +13,7 @@ Prerequisites:
 - RESTCONF enabled
 - Terraform CLI
 
-[Tutorial](.evpn/tutorial)  
+[Tutorial](./evpn/terraform/tutorial/)  
 [Public Registry](https://registry.terraform.io/providers/robertcsapo/ciscoevpn/latest)  
 [Source Code](https://github.com/robertcsapo/terraform-provider-ciscoevpn)  
 
