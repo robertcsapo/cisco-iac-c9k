@@ -23,4 +23,4 @@ Coming soon
 ## Application Hosting (IOX)
 
 ### Terraform
-Coming sson
+Coming soon
