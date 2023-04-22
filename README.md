@@ -18,9 +18,18 @@ Prerequisites:
 [Source Code](https://github.com/robertcsapo/terraform-provider-ciscoevpn)  
 
 ### Ansible
-Coming soon
 
 ## Application Hosting (IOX)
 
 ### Terraform
-Coming soon
+#### Guide for deploying Applications (containers) on Catalyst 9300 Switches
+Prerequisites:
+- Catalyst 9000 Switching Platforms (C9300)
+- Cisco IOS-XE 17.8+
+- Cisco Network Advantage / DNA Advantage
+- RESTCONF enabled
+- Terraform CLI
+
+[Tutorial](./apphosting/terraform/tutorial/)  
+[Public Registry](https://registry.terraform.io/providers/robertcsapo/ciscoapphosting/latest)  
+[Source Code](https://github.com/robertcsapo/terraform-provider-ciscoapphosting) 
